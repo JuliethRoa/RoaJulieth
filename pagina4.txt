@@ -1,0 +1,75 @@
+<html>
+
+<head>
+<title>ANNE WITH AN E</title>
+</head>
+
+<body>
+<body background="am.jpg">
+
+<font face="Arial Rounded MT" size=3 color=orange>
+
+<ol start="5"><li><a id=inicio><a href=#subtema1>Productora</a></li>
+<li><a href=#subtema2>Curiosidades</a></li></ol>
+
+</font>
+
+<p align="center">
+<img src="na.jpg"  width="500" height="200"></p>
+
+<hr size="9px" color="orange"></hr>
+
+<font face="Arial Rounded MT" size=3 color=purple>
+
+<ol start="5">
+
+
+<li><a id=subtema1><p>Productura</p></a></li>
+
+<img src="lov.jpg" width="200" height="180" align="right"> 
+
+<p align="justify">
+Walley-Beckett trabajó desde mediados de los 80 hasta principios de los 2000 como actriz de televisión. Apareció como invitada en muchas series, incluidas MacGyver , 
+21 Jump Street , Wiseguy , Chicago Hope , Diagnosis Murder y ER .Comenzó a escribir para televisión en 2007 como redactora del drama de detectives Raines , de corta 
+duración de la NBC , protagonizada por Jeff Goldblum. En 2008 se unió al equipo de redacción del drama legal Eli Stone y escribió el episodio "Heal the Pain".<br>
+En enero de 2016, se anunció que Walley-Beckett crearía, escribiría y produciría una serie de televisión basada en el clásico infantil Anne of Green Gables para CBC
+de Canadá .Netflix subió a bordo en agosto para distribuir el programa internacionalmente.La serie, Anne with an E (titulada Anne durante la primera 
+temporada) se emitió en CBC en Canadá y luego estuvo disponible para su transmisión en Netflix.La serie se estrenó el 19 de marzo de 2017 en CBC y el 12 de mayo 
+a nivel internacional. Se renovó para una segunda temporada el 3 de agosto de 2017 y para una tercera temporada en agosto de 2018. Poco después del lanzamiento de
+la tercera temporada en el otoño de 2019, CBC y Netflix anunciaron que la serie fue cancelada.</p>
+
+<p align="right">
+
+<br>
+
+<a href=#inicio><button>Inicio</button></a></p>
+
+<hr size="9px" color="orange"></hr>
+
+<li><a id=subtema2><p>Curiosidades
+</p></a></li>
+
+<img src="fr.jpg" width="220" height="180" align="left">
+
+<p align="justify">
+Títulos:El título de cada episodio de la primera temporada son citas de la novela "Jane Eyre" de 1847 escrita por Charlotte Bronte. Los mismos son: "Tu voluntad 
+decidirá tu destino", "No soy pájaro y ninguna red me atrapa", "¿Pero qué es tan testarudo como la juventud?", "Un tesoro interior nacido", "Muy anudado a una cadena 
+similar", "El remordimiento es el veneno de la vida" y "Dondequiera que estés es mi hogar".<br>
+Diferencia de edades:La primera vez que Anne dice su edad en la serie, dice tener 13 años. En los libros en realidad, Anne tiene 11 años al principio. Por otro lado,
+la actriz Amybeth McNuthy tenía 15 años cuando rodaron la primera temporada.<br>
+La cancelación:La cancelación de la serie no tuvo nada que ver con la repercusión de la misma. Netflix no se basó en la respuesta de sus usuarios para tomar la 
+decisión, el problema fue que rompió su acuerdo con la CBS (Canadian Broadcast Service) para la realización de producciones en conjunto. Se intentó hacer una cuarta 
+temporada con otro servicio, o incluso una película que funcione como secuela, pero hasta el momento no pudieron realizarlo.</p>
+
+
+<p align="right">
+
+<br>
+
+<a href=#inicio><button>Inicio</button></a></p>
+
+</ol>
+</font>
+
+</body>
+</html>

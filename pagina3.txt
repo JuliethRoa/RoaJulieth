@@ -1,0 +1,75 @@
+<html>
+
+<head>
+<title>ANNE WITH AN E</title>
+</head>
+
+<body>
+<body background="am.jpg">
+
+<font face="Arial Rounded MT" size=3 color=orange>
+
+<ol start="3"><li><a id=inicio><a href=#subtema1>Producción</a></li>
+<li><a href=#subtema2>Lanzamiento</a></li></ol>
+
+</font>
+
+<p align="center">
+<img src="yu.png"  width="500" height="200"></p>
+
+<hr size="9px" color="orange"></hr>
+
+<font face="Arial Rounded MT" size=3 color=purple>
+
+<ol start="3">
+
+
+<li><a id=subtema1><p>Producción</p></a></li>
+
+<img src="pk.jpg" width="200" height="200" align="right"> 
+
+<p align="justify">
+Desarrollo:Las productoras fuero Northwood Anne, Northwood Entertainment y Canadian Broadcasting Corporation.Los productores ejecutivos son Miranda de Pencier y la 
+creadora de la serie Moira Walley-Beckett.La serie contó con un mayor número de personajes femeninos, incluso como productoras y guionistas.<br>
+Casting:Aproximadamente 1800 chicas en tres continentes audicionaron para el papel de Anne Shirley a través de un casting abierto.Para hacer más abarcativa 
+la búsqueda, los productores abrieron sus horizontes por todo el mundo: "Tuvimos directores de casting en tres continentes y también hicimos una búsqueda en 
+línea donde cualquier chica, podía subir una audición. Hicimos Londres, Nueva York, Los Ángeles y Canadá. Fue realmente intenso".Precisamente en uno de esos videos 
+llegó la presentación de Amybeth, que en el momento convenció a Moira. "Amybeth envió una grabación desde Donegal, en Irlanda, y realmente nos llamó la atención. 
+Estuvo en nuestra lista seleccionada durante mucho tiempo, a lo largo de esta búsqueda", recordó.<br>  
+Filmación:La serie fue filmada parcialmente en la Isla del Príncipe Eduardo, así como lugares del sur de Ontario (incluyendo Millbrook9​ y Caledon).</p>
+
+<p align="right">
+
+<br>
+
+<a href=#inicio><button>Inicio</button></a></p>
+
+<hr size="9px" color="orange"></hr>
+
+<li><a id=subtema2><p>Lanzamiento</p></a></li>
+
+<img src="di.jpg" width="220" height="180" align="left">
+
+<p align="justify">
+La serie se estrenó el 19 de marzo de 2017 por CBC con el nombre Anne y concluyó el 30 de abril de 2017.10​ En Netflix se lanzó el 12 de mayo de 2017, con del nombre 
+de Anne with an E (Anne con una E).El 3 de agosto de 2017 se confirma que la serie sería renovada con una segunda temporada y que constaría de 10 episodios.La segunda 
+temporada fue estrenada el 6 de julio de 2018 en Netflix13​ y posteriormente transmitida por primera vez en CBC el 23 de septiembre de 2018 y concluida el 18 de 
+noviembre de ese mismo año.<br>
+Finalmente se lanzó una tercera temporada que consta de 10 episodios15​ y fue transmitida por CBC por primera vez el 22 de septiembre de
+2019 y su último episodio fue transmitido el 24 de noviembre de ese mismo año. Al día siguiente, el 25 de noviembre de 2019, se anunció que la tercera temporada sería 
+la última y su lanzamiento en Netflix sería el 3 de enero del 2020. No se supo bien las causas de la cancelación, pero se supone que fue debido a la ruptura del trato
+entre CBC y Netflix para trabajar en conjunto en series de televisión, ya que CBC supuso que Netflix representaba un deterioro en la industria local canadiense,hay
+especulaciones de una posible cuarta temporada pero nada es seguro hasta el día de hoy.</p>
+
+
+<p align="right">
+
+<br>
+
+<a href=#inicio><button>Inicio</button></a></p>
+
+</ol>
+</font>
+
+</body>
+</html>
